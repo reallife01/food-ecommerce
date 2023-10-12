@@ -1,0 +1,13 @@
+    # Dependency directories
+/node_modules
+
+# Auto-generated build files
+/build
+
+# Environment file
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
